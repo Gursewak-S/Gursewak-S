@@ -1,14 +1,17 @@
-
 <h1 align="center">Hi 👋, I'm Gursewak Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate programmer and frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300"  src="https://github.com/Gursewak-S/Gursewak-S/blob/main/coding.gif?raw=true">
+
+- 🔭 I’m currently working on full stack project.
 
 - 🌱 I’m currently learning **UI/UX Design**
 
-- 👨‍💻 My Portfolio [https://gursewak-portfolio.netlify.app/](https://gursewak-portfolio.netlify.app/)
+- 👨‍💻  Checkout My <a href="https://gursewak-portfolio.netlify.app/">Portfolio</a>
 
-- 📫 How to reach me **gursewak11520@gmail.com**
+- 📝 Checkout my <a href="https://drive.google.com/file/d/1FEB81Oh0fq66IWhqJJA54mLo7umEGAIJ/view">Resume</a>
+
+- 📫 How to reach me <a href="mailto: gursewak11520@gmail.com">Mail</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,6 +20,8 @@
 
 
 <!--
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 **Gursewak-S/Gursewak-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
