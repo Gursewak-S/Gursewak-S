@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **UI/UX Design**
 
-- 👨‍💻  Checkout My <a href="https://gursewak-portfolio.netlify.app/">Portfolio</a>
+- 👨‍💻  Checkout My <a href="https://gursewak-portfolio.netlify.app/" target="_blank">Portfolio</a>
 
-- 📝 Checkout my <a href="https://drive.google.com/file/d/1ep-mkR5_K94Roe0IVUa1lt1IPZhOtJar/view">Resume</a>
+- 📝 Checkout my <a href="https://drive.google.com/file/d/1ep-mkR5_K94Roe0IVUa1lt1IPZhOtJar/view" target="_blank">Resume</a>
 
 - 📫 How to reach me <a href="mailto: gursewak11520@gmail.com">Mail</a>
 
