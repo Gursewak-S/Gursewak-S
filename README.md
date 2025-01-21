@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gursewak Singh</h1>
-<h3 align="center">A passionate programmer and frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="300"  src="https://github.com/Gursewak-S/Gursewak-S/blob/main/coding.gif?raw=true">
 
