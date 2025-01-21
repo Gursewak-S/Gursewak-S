@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="300"  src="https://github.com/Gursewak-S/Gursewak-S/blob/main/coding.gif?raw=true">
 
-- 🔭 I’m currently working on full stack project.
+- 🔭 I’m currently working on Python project.
 
-- 🌱 I’m currently learning **UI/UX Design**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻  Checkout My <a href="https://gursewak-portfolio.netlify.app/" target="_blank">Portfolio</a>
 
